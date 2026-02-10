@@ -24,6 +24,3 @@ I am maintaining this repo to:
 | Day | Topic | Status |
 |----|------|--------|
 | Day 1 | Patterns | ✅ Solved |
-
-
-## 📂 Folder Structure
