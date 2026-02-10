@@ -1,1 +1,1 @@
-# Repository-name-Striver-A2Z-DSA-
+Striver-A2Z-DSA
