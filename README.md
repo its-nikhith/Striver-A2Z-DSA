@@ -24,3 +24,4 @@ I am maintaining this repo to:
 | Day | Topic | Status |
 |----|------|--------|
 | Day 1 | Patterns | ✅ Solved |
+| Day 2 | Patterns | ✅ Solved |
